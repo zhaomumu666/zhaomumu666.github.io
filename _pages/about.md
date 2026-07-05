@@ -2,7 +2,7 @@
 layout: home
 title: home
 permalink: /
-subtitle: '<a href="https://spst.shanghaitech.edu.cn/spst_en/" target="_blank">School of Physical Science and Technology, ShanghaiTech University</a>.Contact: <a href="mailto:zhaoym2023@shanghaitech.edu.cn">zhaoym2023@shanghaitech.edu.cn</a>. | Motto: You can learn anything.'
+subtitle: '<a href="https://spst.shanghaitech.edu.cn/spst_en/" target="_blank">School of Physical Science and Technology, ShanghaiTech University</a>. Contact: <a href="mailto:zhaoym2023@shanghaitech.edu.cn<br><em>"You can learn anything."</em>'
 
 profile:
   align: right
