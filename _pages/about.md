@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: '<a href="https://spst.shanghaitech.edu.cn/spst_en/" target="_blank">School of Physical Science and Technology, ShanghaiTech University</a>. Contact: <a href="mailto:zhaoym2023@shanghaitech.edu.cn<br><em>"You can learn anything."</em>'
+subtitle: '<a href="https://spst.shanghaitech.edu.cn/spst_en/" target="_blank">School of Physical Science and Technology, ShanghaiTech University</a>. Contact: <a href="mailto:zhaoyumu2023@shanghaitech.edu.cn">zhaoyumu2023@shanghaitech.edu.cn</a>. Motto: <em>"You can learn anything."</em>'
 
 profile:
   align: right
@@ -27,14 +27,18 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 ### About Me
-I am Yumu Zhao, an undergraduate student at the School of Physical Science and Technology, ShanghaiTech University.
+I am Yumu Zhao, a physics undergraduate student at the School of Physical Science and Technology, ShanghaiTech University.
 
+#### Research Interests
 My research field is quantum computing, with broad interests spanning quantum algorithm design, quantum error correction, and quantum hardware implementation.
-
 My long-term goal is to contribute to the practical realization of quantum computing, and push quantum devices toward real-world usable applications.
+
+#### Hobbies & Daily Life
+I maintain an active lifestyle in my spare time. My favorite sports are swimming and basketball, which help me stay energetic and focused on research.
+I also create interesting videos about quantum computing and share them on YouTube.
 
 ### Related Information
 GitHub: <a target="_blank" href="https://github.com/zhaomumu666">zhaomumu666</a>
-
+YouTube: <a target="_blank" href="https://www.youtube.com/@YumusQtalk">My Quantum Computing Educational Channel</a>
 ### Publications
 I have ongoing research manuscripts under review. My published papers will be updated on this page in the future.
