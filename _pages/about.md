@@ -2,7 +2,9 @@
 layout: about
 title: home
 permalink: /
-subtitle: '<a href="https://spst.shanghaitech.edu.cn/spst_en/" target="_blank">School of Physical Science and Technology, ShanghaiTech University</a>. Contact: <a href="mailto:zhaoyumu2023@shanghaitech.edu.cn">zhaoyumu2023@shanghaitech.edu.cn</a>. Motto: <em>"You can learn anything."</em>'
+subtitle: '<a href="https://spst.shanghaitech.edu.cn/spst_en/" target="_blank">School of Physical Science and Technology, ShanghaiTech University</a>. 
+
+Contact: <a href="mailto:zhaoyumu2023@shanghaitech.edu.cn">zhaoyumu2023@shanghaitech.edu.cn</a>. 
 
 profile:
   align: right
@@ -39,6 +41,14 @@ I also create interesting videos about quantum computing and share them on YouTu
 
 ### Related Information
 GitHub: <a target="_blank" href="https://github.com/zhaomumu666">zhaomumu666</a>
+
 YouTube: <a target="_blank" href="https://www.youtube.com/@YumusQtalk">My Quantum Computing Educational Channel</a>
+
 ### Publications
 I have ongoing research manuscripts under review. My published papers will be updated on this page in the future.
+
+<br>
+<br>
+<div style="text-align:center; font-size:2rem; font-style:italic; color:#99bbff; margin-top:80px; letter-spacing:1px;">
+"You can learn anything."
+</div>
