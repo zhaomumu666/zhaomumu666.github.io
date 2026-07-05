@@ -2,10 +2,9 @@
 layout: about
 title: home
 permalink: /
-subtitle: '<a href="https://spst.shanghaitech.edu.cn/spst_en/" target="_blank">School of Physical Science and Technology, ShanghaiTech University</a>. 
-
-Contact: <a href="mailto:zhaoyumu2023@shanghaitech.edu.cn">zhaoyumu2023@shanghaitech.edu.cn</a>. 
-
+subtitle: >
+  <a href="https://spst.shanghaitech.edu.cn/spst_en/" target="_blank">School of Physical Science and Technology, ShanghaiTech University</a>.
+  Contact: <a href="mailto:zhaoyumu2023@shanghaitech.edu.cn">zhaoyumu2023@shanghaitech.edu.cn</a>.
 profile:
   align: right
   image: prof_pic.jpg
